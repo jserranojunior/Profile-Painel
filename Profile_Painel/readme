@@ -1,0 +1,11 @@
+The code is available in the dist folder!
+
+In the index.html file there are 2 cards to show how it will be displayed in dark or light mode.
+
+If you want to add a tailwind class import tailwindfull.css in the folder src/styles
+for more informations tailwind.css access https://tailwindcss.com/
+
+Gulp task for purge
+  - npm run tail
+
+
